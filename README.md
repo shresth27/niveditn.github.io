@@ -2,7 +2,8 @@
 GitHub page for NiveditN
 
 ## TODO:
-- [ ] Install Jekyll
-- [ ] Set up main user page
-- [ ] Set up blog
+- [x] Install Jekyll
+- [x] Set up main user page
+- [x] Set up blog
 - [ ] Add contact info
+- [ ] Customize blog
