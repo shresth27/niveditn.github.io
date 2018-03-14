@@ -5,5 +5,6 @@ GitHub page for NiveditN
 - [x] Install Jekyll
 - [x] Set up main user page
 - [x] Set up blog
-- [ ] Add contact info
+- [ ] Edit About page
 - [ ] Customize blog
+- [ ] Add contact info
