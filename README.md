@@ -6,5 +6,6 @@ GitHub page for NiveditN
 - [x] Set up main user page
 - [x] Set up blog
 - [ ] Edit About page
+- [ ] Add twitter
 - [ ] Customize blog
 - [ ] Add contact info
