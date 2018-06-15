@@ -1,32 +1,11 @@
+## niveditn.github.io
 
-# Sustain
-
-[![Build Status](https://secure.travis-ci.org/jekyller/sustain.png?branch=gh-pages)](http://travis-ci.org/jekyller/sustain)
-[![Ruby](https://img.shields.io/badge/ruby-2.4.2-blue.svg?style=flat)](http://travis-ci.org/jekyller/sustain)
-[![Jekyll](https://img.shields.io/badge/jekyll-3.6.2-blue.svg?style=flat)](http://travis-ci.org/jekyller/sustain)
-
-Personal blog built with [Bootstrap](http://getbootstrap.com/), powered by [Jekyll](http://jekyllrb.com/) and freely
-hosted in [Github pages](https://pages.github.com/).
+Github page for NiveditN
 
 
-## View the live demo
+## Built Using Jekyll Theme
 
-[Sustain Live Demo](https://jekyller.github.io/sustain)
-
-
-## Screenshots
-
-**Home page**
-![home page](https://raw.githubusercontent.com/jekyller/sustain/gh-pages/assets/images/screen1.png)
-
-**Blog page**
-![blog page](https://raw.githubusercontent.com/jekyller/sustain/gh-pages/assets/images/screen2.png)
-
-**Post page**
-![post page](https://raw.githubusercontent.com/jekyller/sustain/gh-pages/assets/images/screen3.png)
-
-**Projects page**
-![project page](https://raw.githubusercontent.com/jekyller/sustain/gh-pages/assets/images/screen4.png)
+[Sustain](https://jekyller.github.io/sustain)
 
 
 ## How to use it
@@ -34,21 +13,10 @@ hosted in [Github pages](https://pages.github.com/).
 Simply clone/fork this repository, and then run `jekyll serve` inside the directory.
 Edit the site attributes in *_config.yml* and edit the various entries in *_includes/* and *_posts/*.
 
-
-## Issues and contributing
-
-I have tested this install with Ruby v2.4.2 (Mac OS RVM) and Jekyll v3.6.2. If you run into any problems please log them on the [issue tracker](https://github.com/jekyller/sustain/issues).
-
-Feel free pull-request your patches and fixes.
-
 #### Contributors
 
-[Sumit Murari](https://github.com/murarisumit), November 2015
-
-
-## Thanks
-
-Profile picture from [pexels](https://www.pexels.com/photo/portrait-black-african-ethnicity-person-9494/).
+[Nivedit](https://github.com/niveditn), June 2018
+[Shruti Shresth](https://github.com/shresth27), June 2018
 
 
 ## Copyright & License
