@@ -1,7 +1,80 @@
----
-layout: atom
----
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  
+    <title type="text" xml:lang="en">Neha Nivedita</title>
+    <link type="application/atom+xml" rel="self" href="http://niveditn.github.io//atom.xml"/>
+  
+  <link href="http://niveditn.github.io//"/>
+  <id>http://niveditn.github.io//</id>
+  <updated>2018-06-15T16:48:17Z</updated>
+  <author>
+    <name>Nivedit</name>
+    <email>hi@nivedit.in</email>
+  </author>
+  <rights type="text">Copyright © 2018 Nivedit. All rights reserved.</rights>
+  
+  <entry>
+  <title type="text">Speaker at MongoDB World '18</title>
+  <link rel="alternate" type="text/html" href="http://niveditn.github.io//post4.html" />
+  <id>http://niveditn.github.io//post4</id>
+  <published>2018-06-11T00:00:00Z</published>
+  <updated>2018-06-11T00:00:00Z</updated>
+  <content type="html"><![CDATA[ <p>I’m excited to announce that I would be speaking at the MongoDB World ‘18 at the end of this month. I would be talking about “Digitizing Colossal Data: Using Tech to Disrupt the Legal Industry and Bring Forth Positive Change”.</p>
 
-{% for post in site.posts limit:10 %}
-  {% include feed-detail.xml %}
-{% endfor %}
+<p>Details for my talk are <a href="https://www.mongodb.com/world18/session/174098">here</a>.</p>
+ ]]></content>
+</entry>
+
+
+  <entry>
+  <title type="text">Speaker at Developer Week NYC '18</title>
+  <link rel="alternate" type="text/html" href="http://niveditn.github.io//post3.html" />
+  <id>http://niveditn.github.io//post3</id>
+  <published>2018-06-06T00:00:00Z</published>
+  <updated>2018-06-06T00:00:00Z</updated>
+  <content type="html"><![CDATA[ <p>I would be speaking at Developer Week at NYC later next week on the topic “How to be an a11y - Creating Accessible React Apps”. Very excited to be a part of this Developer Conference and give this talk. Hope to see you there!</p>
+
+<p>Details for my talk are <a href="http://www.developerweek.com/NYC/conference/speakers/">here</a>.</p>
+ ]]></content>
+</entry>
+
+
+  <entry>
+  <title type="text">Speaker at NYC Tech Conferences '18</title>
+  <link rel="alternate" type="text/html" href="http://niveditn.github.io//post2.html" />
+  <id>http://niveditn.github.io//post2</id>
+  <published>2018-06-05T00:00:00Z</published>
+  <updated>2018-06-05T00:00:00Z</updated>
+  <content type="html"><![CDATA[ <p>Very excited to announce that I will be in NYC later this month with a couple of brand new talks on React and MongoDB!</p>
+
+<p>I am looking forward to listening to several wonderful tech talks over the course of two conferences, and exploring the authentic NYC experience! Come say hi if you’re around!</p>
+
+<p>June 19:</p>
+<ul>
+  <li>DeveloperWeek NYC – “Creating Accessible React Apps”<br />
+<a href="https://lnkd.in/fb9wg32">[Link]</a></li>
+</ul>
+
+<p>June 27:</p>
+<ul>
+  <li>MongoDB World – “Digitizing Colossal Data”<br />
+<a href="https://lnkd.in/f3YueY7">[Link]</a></li>
+</ul>
+
+ ]]></content>
+</entry>
+
+
+  <entry>
+  <title type="text">Hey there!</title>
+  <link rel="alternate" type="text/html" href="http://niveditn.github.io//post1.html" />
+  <id>http://niveditn.github.io//post1</id>
+  <published>2018-06-04T00:00:00Z</published>
+  <updated>2018-06-04T00:00:00Z</updated>
+  <content type="html"><![CDATA[ <p>Hey! I am Nivedit (a.k.a Neha Nivedita) and I am a Full Stack Developer.</p>
+ ]]></content>
+</entry>
+
+
+
+</feed>
