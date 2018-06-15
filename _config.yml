@@ -11,14 +11,14 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://username.github.io/
-baseurl: /sustain/
+url: http://niveditn.github.io/
+baseurl: /
 title: Neha Nivedita
 author: Nivedit
 description: Full Stack Developer| Tech Speaker | Open Source Contributor
 avatar: nivedit.png
 email: hi@nivedit.in
-github: jekyller/sustain # username
+github: niveditn # username
 twitter: niknivedit
 linkedin: neha-nivedita
 stackoverflow: ryder   #e.g: users/2735833/proton1h1
